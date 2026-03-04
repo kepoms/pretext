@@ -57,6 +57,8 @@ const TEXTS = [
 const FONTS = [
   '"Helvetica Neue", Helvetica, Arial, sans-serif',
   'Georgia, "Times New Roman", serif',
+  'Verdana, Geneva, sans-serif',
+  '"Courier New", Courier, monospace',
 ]
 
 const SIZES = [12, 14, 15, 16, 18, 20, 24, 28]
